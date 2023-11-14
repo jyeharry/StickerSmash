@@ -1,4 +1,4 @@
-### StickerSmash
+# StickerSmash
 
 A react-native app built with Expo. The tutorial for this app can be found in the Expo docs at [https://docs.expo.dev/tutorial/introduction/](https://docs.expo.dev/tutorial/introduction/)
 
